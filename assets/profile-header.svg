@@ -11,27 +11,53 @@
       <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.24"/>
       <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
   </defs>
 
   <rect width="1200" height="280" rx="22" fill="url(#background)"/>
   <circle cx="1040" cy="56" r="240" fill="url(#glow)"/>
 
-  <g stroke="#94a3b8" stroke-opacity="0.22" stroke-width="1.5">
-    <path d="M835 64 L925 104 L1020 54 L1110 112"/>
-    <path d="M795 174 L900 132 L996 188 L1110 112"/>
-    <path d="M900 132 L925 104 L996 188 L1088 226"/>
-    <path d="M835 64 L795 174 L900 220 L996 188"/>
-  </g>
-  <g fill="#93c5fd">
-    <circle cx="835" cy="64" r="5"/>
-    <circle cx="925" cy="104" r="6"/>
-    <circle cx="1020" cy="54" r="4"/>
-    <circle cx="1110" cy="112" r="7"/>
-    <circle cx="795" cy="174" r="4"/>
-    <circle cx="900" cy="132" r="5"/>
-    <circle cx="996" cy="188" r="6"/>
-    <circle cx="1088" cy="226" r="4"/>
-    <circle cx="900" cy="220" r="5"/>
+  <g aria-label="Abstract risk-aware graph network">
+    <circle cx="972" cy="140" r="102" fill="none" stroke="#93c5fd" stroke-opacity="0.08"/>
+    <circle cx="972" cy="140" r="76" fill="none" stroke="#93c5fd" stroke-opacity="0.12" stroke-dasharray="4 8"/>
+
+    <g fill="none" stroke-linecap="round">
+      <path d="M846 86 C894 72 914 93 946 126" stroke="#94a3b8" stroke-opacity="0.40" stroke-width="1.5"/>
+      <path d="M846 86 C903 112 930 163 905 207" stroke="#64748b" stroke-opacity="0.36" stroke-width="1.5"/>
+      <path d="M846 178 C892 172 914 156 946 140" stroke="#7dd3fc" stroke-opacity="0.58" stroke-width="2"/>
+      <path d="M905 207 C938 183 953 169 965 151" stroke="#818cf8" stroke-opacity="0.48" stroke-width="2"/>
+      <path d="M946 126 C985 96 1018 74 1058 79" stroke="#7dd3fc" stroke-opacity="0.44" stroke-width="1.5"/>
+      <path d="M992 137 C1027 116 1060 112 1100 128" stroke="#94a3b8" stroke-opacity="0.40" stroke-width="1.5"/>
+      <path d="M987 153 C1020 177 1045 197 1080 202" stroke="#818cf8" stroke-opacity="0.50" stroke-width="2"/>
+      <path d="M1058 79 C1080 93 1092 108 1100 128" stroke="#64748b" stroke-opacity="0.32" stroke-width="1.5"/>
+      <path d="M1100 128 C1098 160 1092 181 1080 202" stroke="#7dd3fc" stroke-opacity="0.36" stroke-width="1.5"/>
+    </g>
+
+    <circle cx="972" cy="140" r="24" fill="#60a5fa" fill-opacity="0.18" filter="url(#softGlow)"/>
+    <circle cx="972" cy="140" r="18" fill="#172554" stroke="url(#signal)" stroke-width="2"/>
+    <circle cx="972" cy="140" r="5" fill="#e0f2fe"/>
+
+    <g fill="#0f172a" stroke-width="2">
+      <circle cx="846" cy="86" r="7" stroke="#7dd3fc"/>
+      <circle cx="846" cy="178" r="6" stroke="#93c5fd"/>
+      <circle cx="905" cy="207" r="7" stroke="#818cf8"/>
+      <circle cx="946" cy="126" r="6" stroke="#bae6fd"/>
+      <circle cx="1058" cy="79" r="7" stroke="#93c5fd"/>
+      <circle cx="1100" cy="128" r="8" stroke="#7dd3fc"/>
+      <circle cx="1080" cy="202" r="6" stroke="#818cf8"/>
+    </g>
+
+    <g fill="#dbeafe" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10" font-weight="600" letter-spacing="1.2">
+      <text x="817" y="69">DATA</text>
+      <text x="1075" y="65">SIGNAL</text>
+      <text x="1093" y="224">RISK</text>
+    </g>
   </g>
 
   <text x="72" y="112" fill="#f8fafc" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="50" font-weight="700" letter-spacing="0.5">Wenjie Zhou</text>
