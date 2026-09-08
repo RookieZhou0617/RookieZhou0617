@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Wenjie Zhou</title>
+  <desc id="desc">Risk Modeling, Graph Machine Learning, and LLM Applications</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="22" fill="url(#background)"/>
+  <circle cx="1040" cy="56" r="240" fill="url(#glow)"/>
+
+  <g stroke="#94a3b8" stroke-opacity="0.22" stroke-width="1.5">
+    <path d="M835 64 L925 104 L1020 54 L1110 112"/>
+    <path d="M795 174 L900 132 L996 188 L1110 112"/>
+    <path d="M900 132 L925 104 L996 188 L1088 226"/>
+    <path d="M835 64 L795 174 L900 220 L996 188"/>
+  </g>
+  <g fill="#93c5fd">
+    <circle cx="835" cy="64" r="5"/>
+    <circle cx="925" cy="104" r="6"/>
+    <circle cx="1020" cy="54" r="4"/>
+    <circle cx="1110" cy="112" r="7"/>
+    <circle cx="795" cy="174" r="4"/>
+    <circle cx="900" cy="132" r="5"/>
+    <circle cx="996" cy="188" r="6"/>
+    <circle cx="1088" cy="226" r="4"/>
+    <circle cx="900" cy="220" r="5"/>
+  </g>
+
+  <text x="72" y="112" fill="#f8fafc" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="50" font-weight="700" letter-spacing="0.5">Wenjie Zhou</text>
+  <text x="74" y="159" fill="#cbd5e1" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">Applied Statistics · Machine Learning · Risk Intelligence</text>
+  <rect x="72" y="193" width="610" height="40" rx="20" fill="#0f172a" fill-opacity="0.6" stroke="#64748b" stroke-opacity="0.45"/>
+  <text x="94" y="220" fill="#bfdbfe" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="500">Risk Modeling · Graph Machine Learning · LLM Applications</text>
+</svg>
