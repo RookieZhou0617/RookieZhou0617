@@ -1,67 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Wenjie Zhou</title>
-  <desc id="desc">Risk Modeling, Graph Machine Learning, and LLM Applications</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Wenjie Zhou — 2027 Graduate</title>
+  <desc id="desc">Applied Statistics at Shanghai University of Finance and Economics. Risk strategy, risk modeling and content safety. Decorative signal graphic, not measured performance data.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="55%" stop-color="#1e293b"/>
-      <stop offset="100%" stop-color="#334155"/>
+      <stop stop-color="#11283C"/>
+      <stop offset="1" stop-color="#1D454D"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.24"/>
-      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#7dd3fc"/>
-      <stop offset="100%" stop-color="#818cf8"/>
-    </linearGradient>
-    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="5"/>
-    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#9CBEBF" stroke-opacity="0.07"/>
+    </pattern>
   </defs>
-
-  <rect width="1200" height="280" rx="22" fill="url(#background)"/>
-  <circle cx="1040" cy="56" r="240" fill="url(#glow)"/>
-
-  <g aria-label="Abstract risk-aware graph network">
-    <circle cx="972" cy="140" r="102" fill="none" stroke="#93c5fd" stroke-opacity="0.08"/>
-    <circle cx="972" cy="140" r="76" fill="none" stroke="#93c5fd" stroke-opacity="0.12" stroke-dasharray="4 8"/>
-
+  <rect width="1200" height="340" rx="20" fill="url(#background)"/>
+  <rect x="820" width="380" height="340" rx="20" fill="url(#grid)"/>
+  <path d="M 54 51 H 87" stroke="#8AD9C7" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="102" y="56" font-size="13" letter-spacing="2.6" fill="#B8D3D8">APPLIED STATISTICS · RISK INTELLIGENCE</text>
+    <text x="52" y="139" font-size="59" font-weight="700" letter-spacing="-1.5" fill="#FFFFFF">Wenjie Zhou</text>
+    <text x="55" y="185" font-size="20" fill="#C6DCDF">From data and models to risk decisions.</text>
+    <text x="55" y="217" font-size="15" fill="#A5C0CA">Shanghai University of Finance and Economics</text>
+    <g font-size="15" fill="#E1F3F0">
+      <rect x="55" y="263" width="140" height="34" rx="17" fill="#2B505D"/>
+      <text x="74" y="286">Risk Strategy</text>
+      <rect x="207" y="263" width="147" height="34" rx="17" fill="#2B505D"/>
+      <text x="226" y="286">Risk Modeling</text>
+      <rect x="366" y="263" width="152" height="34" rx="17" fill="#2B505D"/>
+      <text x="385" y="286">Content Safety</text>
+    </g>
+    <path d="M 791 60 V 285" stroke="#719599" stroke-opacity="0.28"/>
+    <text x="853" y="83" font-size="12" letter-spacing="3" fill="#AFCBCF">GRADUATING</text>
+    <text x="846" y="173" font-size="84" font-weight="700" letter-spacing="-3" fill="#C3EBDD">2027</text>
+    <text x="853" y="207" font-size="16" fill="#C3D8DC">M.S. · Applied Statistics</text>
     <g fill="none" stroke-linecap="round">
-      <path d="M846 86 C894 72 914 93 946 126" stroke="#94a3b8" stroke-opacity="0.40" stroke-width="1.5"/>
-      <path d="M846 86 C903 112 930 163 905 207" stroke="#64748b" stroke-opacity="0.36" stroke-width="1.5"/>
-      <path d="M846 178 C892 172 914 156 946 140" stroke="#7dd3fc" stroke-opacity="0.58" stroke-width="2"/>
-      <path d="M905 207 C938 183 953 169 965 151" stroke="#818cf8" stroke-opacity="0.48" stroke-width="2"/>
-      <path d="M946 126 C985 96 1018 74 1058 79" stroke="#7dd3fc" stroke-opacity="0.44" stroke-width="1.5"/>
-      <path d="M992 137 C1027 116 1060 112 1100 128" stroke="#94a3b8" stroke-opacity="0.40" stroke-width="1.5"/>
-      <path d="M987 153 C1020 177 1045 197 1080 202" stroke="#818cf8" stroke-opacity="0.50" stroke-width="2"/>
-      <path d="M1058 79 C1080 93 1092 108 1100 128" stroke="#64748b" stroke-opacity="0.32" stroke-width="1.5"/>
-      <path d="M1100 128 C1098 160 1092 181 1080 202" stroke="#7dd3fc" stroke-opacity="0.36" stroke-width="1.5"/>
+      <path d="M 852 277 H 1121" stroke="#73969C" stroke-opacity="0.4"/>
+      <path d="M 852 264 L 888 257 L 921 268 L 958 242 L 991 249 L 1026 224 L 1061 237 L 1093 221 L 1121 231" stroke="#85CDBE" stroke-width="2"/>
     </g>
-
-    <circle cx="972" cy="140" r="24" fill="#60a5fa" fill-opacity="0.18" filter="url(#softGlow)"/>
-    <circle cx="972" cy="140" r="18" fill="#172554" stroke="url(#signal)" stroke-width="2"/>
-    <circle cx="972" cy="140" r="5" fill="#e0f2fe"/>
-
-    <g fill="#0f172a" stroke-width="2">
-      <circle cx="846" cy="86" r="7" stroke="#7dd3fc"/>
-      <circle cx="846" cy="178" r="6" stroke="#93c5fd"/>
-      <circle cx="905" cy="207" r="7" stroke="#818cf8"/>
-      <circle cx="946" cy="126" r="6" stroke="#bae6fd"/>
-      <circle cx="1058" cy="79" r="7" stroke="#93c5fd"/>
-      <circle cx="1100" cy="128" r="8" stroke="#7dd3fc"/>
-      <circle cx="1080" cy="202" r="6" stroke="#818cf8"/>
-    </g>
-
-    <g fill="#dbeafe" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10" font-weight="600" letter-spacing="1.2">
-      <text x="817" y="69">DATA</text>
-      <text x="1075" y="65">SIGNAL</text>
-      <text x="1093" y="224">RISK</text>
-    </g>
+    <circle cx="958" cy="242" r="4" fill="#C3EBDD"/>
+    <circle cx="1026" cy="224" r="4" fill="#C3EBDD"/>
+    <circle cx="1093" cy="221" r="4" fill="#C3EBDD"/>
   </g>
-
-  <text x="72" y="112" fill="#f8fafc" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="50" font-weight="700" letter-spacing="0.5">Wenjie Zhou</text>
-  <text x="74" y="159" fill="#cbd5e1" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">Applied Statistics · Machine Learning · Risk Intelligence</text>
-  <rect x="72" y="193" width="610" height="40" rx="20" fill="#0f172a" fill-opacity="0.6" stroke="#64748b" stroke-opacity="0.45"/>
-  <text x="94" y="220" fill="#bfdbfe" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="500">Risk Modeling · Graph Machine Learning · LLM Applications</text>
 </svg>
