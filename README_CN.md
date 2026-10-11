@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <b>中文</b> · <a href="mailto:zhouwenjie_0617@163.com">打个招呼 ↗</a>
+  <a href="README.md">English</a> · <b>中文</b> · <a href="https://jason-personal-site-green.vercel.app/">个人网站 ↗</a> · <a href="mailto:zhouwenjie_0617@163.com">打个招呼 ↗</a>
 </p>
 
 ## 嗨，我是文杰，也可以叫我 Jason 👋
@@ -13,6 +13,8 @@
 预计 2027 年毕业，研究图学习和造假检测，也喜欢用 AI 折腾些有用的东西。我有 ADHD，对很多东西都感兴趣，所以这个主页想给这些兴趣都留点位置。对了，我还是双子座。♊
 
 *最近在做什么比较好回答，接下来会对什么感兴趣就不好说了。*
+
+🌐 [来我的个人网站逛逛](https://jason-personal-site-green.vercel.app/) — 更多项目、音乐和支线探索。
 
 ## 🛠️ 最近在折腾
 
