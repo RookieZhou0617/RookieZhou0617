@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, I'm Wenjie.</title>
+  <desc id="desc">An illustrated personal magazine cover: a Shanghai postcard, code window, vinyl record, basketball, tennis ball and game controller. A little research, a little side quest.</desc>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#e6dfd0" stroke-width="1"/></pattern>
+    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#272530" opacity=".14"/></pattern>
+  </defs>
+  <rect width="1200" height="460" rx="24" fill="#f8f2e5"/>
+  <rect width="1200" height="460" rx="24" fill="url(#grid)"/>
+  <path d="M34 42H574" stroke="#272530" stroke-width="1.5"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#272530">
+    <text x="40" y="30" font-size="12" letter-spacing="3">THE WENJIE EDITION</text>
+    <text x="456" y="30" font-size="12" letter-spacing="2">SHANGHAI, CN</text>
+    <text x="38" y="101" font-size="20">Hello, I'm</text>
+    <text x="30" y="216" font-family="Georgia, 'Times New Roman', serif" font-size="117" font-weight="bold" letter-spacing="-6">Wenjie</text>
+    <circle cx="460" cy="204" r="10" fill="#ed663c"/>
+    <path d="M43 235Q231 219 468 232" fill="none" stroke="#ed663c" stroke-width="5" stroke-linecap="round"/>
+    <text x="42" y="284" font-size="24">A little research.</text>
+    <text x="42" y="319" font-size="24">A little side quest.</text>
+    <rect x="40" y="355" width="119" height="34" rx="17" fill="#272530"/>
+    <text x="99.5" y="377" text-anchor="middle" font-size="12" fill="#fff8ed" letter-spacing="1">STATISTICS</text>
+    <rect x="169" y="355" width="109" height="34" rx="17" fill="#d3c4f2" stroke="#272530"/>
+    <text x="223.5" y="377" text-anchor="middle" font-size="12" letter-spacing="1">AI + CODE</text>
+    <rect x="288" y="355" width="124" height="34" rx="17" fill="#e9eeae" stroke="#272530"/>
+    <text x="350" y="377" text-anchor="middle" font-size="12" letter-spacing="1">SIDE QUESTS</text>
+    <text x="41" y="427" font-size="12" letter-spacing="1.5">MUSIC / GAMES / SPORTS / WHATEVER'S NEXT</text>
+  </g>
+  <!-- A postcard from the current city. -->
+  <g transform="translate(629 37) rotate(-7 105 76)">
+    <rect x="5" y="7" width="216" height="166" fill="#272530" opacity=".12"/>
+    <rect width="216" height="166" fill="#fffdf4" stroke="#272530" stroke-width="1.8"/>
+    <rect x="10" y="10" width="196" height="120" fill="#d3c4f2"/>
+    <circle cx="161" cy="40" r="18" fill="#f8f2e5"/>
+    <g stroke="#272530" stroke-width="2.5" stroke-linejoin="round" fill="none">
+      <path d="M22 110H191M40 109V76H61V110M82 109V74M82 54V21M82 64V110M126 109V47L143 27V110M157 109V61H178V110"/>
+      <circle cx="82" cy="63" r="12" fill="#ed663c"/><circle cx="82" cy="37" r="5" fill="#ed663c"/>
+      <path d="M101 109V86H115V110M42 87H60M158 74H178M158 86H178"/>
+    </g>
+    <text x="15" y="151" font-family="Arial, sans-serif" font-size="12" letter-spacing="3" fill="#272530">HELLO FROM SHANGHAI</text>
+    <path d="M75 -5H145V15H75Z" fill="#e9eeae" opacity=".8"/>
+  </g>
+  <!-- A record sleeve, peeking behind the code window. -->
+  <g transform="translate(892 29) rotate(9 124 115)">
+    <rect x="5" y="6" width="235" height="237" rx="3" fill="#272530" opacity=".14"/>
+    <rect width="235" height="237" rx="3" fill="#ed663c" stroke="#272530" stroke-width="2"/>
+    <rect width="235" height="237" fill="url(#dots)"/>
+    <circle cx="117" cy="114" r="85" fill="#272530"/>
+    <g fill="none" stroke="#5a545c" stroke-width="1"><circle cx="117" cy="114" r="72"/><circle cx="117" cy="114" r="62"/><circle cx="117" cy="114" r="51"/></g>
+    <circle cx="117" cy="114" r="29" fill="#e9eeae"/>
+    <circle cx="117" cy="114" r="5" fill="#272530"/>
+    <path d="M65 59A74 74 0 0 1 102 41" fill="none" stroke="#fff8ed" stroke-width="4" stroke-linecap="round"/>
+    <text x="18" y="220" font-family="Arial, sans-serif" font-size="12" letter-spacing="2" fill="#272530">ONE MORE TRACK.</text>
+  </g>
+  <!-- A small editor, with room for the next idea. -->
+  <g transform="translate(656 225) rotate(-3 157 96)">
+    <rect x="6" y="7" width="314" height="179" rx="12" fill="#272530" opacity=".15"/>
+    <rect width="314" height="179" rx="12" fill="#272530" stroke="#272530" stroke-width="2"/>
+    <path d="M12 0H302Q314 0 314 12V32H0V12Q0 0 12 0Z" fill="#d3c4f2"/>
+    <g fill="#272530"><circle cx="17" cy="16" r="3"/><circle cx="30" cy="16" r="3"/><circle cx="43" cy="16" r="3"/></g>
+    <text x="228" y="21" font-family="monospace" font-size="11" fill="#272530">ideas.py</text>
+    <g font-family="monospace" font-size="16">
+      <text x="20" y="64" fill="#d3c4f2">while curious:</text>
+      <text x="39" y="94" fill="#f8f2e5">explore()</text>
+      <text x="39" y="122" fill="#e9eeae">build_something()</text>
+      <text x="20" y="157" fill="#c0b9c8" font-size="12"># research + a few side quests</text>
+    </g>
+  </g>
+  <!-- Court-side and bot-lane doodles. -->
+  <g transform="translate(1019 311) rotate(12)">
+    <circle r="57" fill="#ed663c" stroke="#272530" stroke-width="2.5"/>
+    <path d="M-56 0H56M0 -56V56M-38 -41Q10 0-38 41M38 -41Q-10 0 38 41" fill="none" stroke="#272530" stroke-width="2.5"/>
+  </g>
+  <g transform="translate(1117 393)">
+    <circle r="28" fill="#e9eeae" stroke="#272530" stroke-width="2"/>
+    <path d="M-22 -17Q10 -1-22 17M22 -17Q-10 1 22 17" fill="none" stroke="#fffdf4" stroke-width="3"/>
+  </g>
+  <g transform="translate(527 337) rotate(-12)">
+    <path d="M17 0H78Q92 0 97 16L109 48Q114 68 99 70Q90 72 73 48H26Q9 72 0 70Q-15 68-10 48L2 16Q7 0 17 0Z" fill="#d3c4f2" stroke="#272530" stroke-width="2.5"/>
+    <path d="M13 25H35M24 14V36" stroke="#272530" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="75" cy="20" r="4" fill="#ed663c"/><circle cx="86" cy="31" r="4" fill="#272530"/>
+    <text x="48" y="89" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#272530">SUP / ADC</text>
+  </g>
+  <g fill="#272530"><path d="M594 124L601 144L621 151L601 158L594 178L587 158L567 151L587 144Z"/><path d="M1150 260L1154 272L1166 276L1154 280L1150 292L1146 280L1134 276L1146 272Z"/></g>
+</svg>
