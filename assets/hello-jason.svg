@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
-  <title id="title">Hello, I'm Wenjie.</title>
+  <title id="title">Hello, I'm Jason.</title>
   <desc id="desc">An illustrated personal magazine cover: a Shanghai postcard, code window, vinyl record, basketball, tennis ball and game controller. A little research, a little side quest.</desc>
   <defs>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#e6dfd0" stroke-width="1"/></pattern>
@@ -9,12 +9,12 @@
   <rect width="1200" height="460" rx="24" fill="url(#grid)"/>
   <path d="M34 42H574" stroke="#272530" stroke-width="1.5"/>
   <g font-family="Arial, Helvetica, sans-serif" fill="#272530">
-    <text x="40" y="30" font-size="12" letter-spacing="3">THE WENJIE EDITION</text>
+    <text x="40" y="30" font-size="12" letter-spacing="3">THE JASON EDITION</text>
     <text x="456" y="30" font-size="12" letter-spacing="2">SHANGHAI, CN</text>
     <text x="38" y="101" font-size="20">Hello, I'm</text>
-    <text x="30" y="216" font-family="Georgia, 'Times New Roman', serif" font-size="117" font-weight="bold" letter-spacing="-6">Wenjie</text>
-    <circle cx="460" cy="204" r="10" fill="#ed663c"/>
-    <path d="M43 235Q231 219 468 232" fill="none" stroke="#ed663c" stroke-width="5" stroke-linecap="round"/>
+    <text x="30" y="216" font-family="Georgia, 'Times New Roman', serif" font-size="117" font-weight="bold" letter-spacing="-6">Jason</text>
+    <circle cx="388" cy="204" r="10" fill="#ed663c"/>
+    <path d="M43 235Q216 219 404 232" fill="none" stroke="#ed663c" stroke-width="5" stroke-linecap="round"/>
     <text x="42" y="284" font-size="24">A little research.</text>
     <text x="42" y="319" font-size="24">A little side quest.</text>
     <rect x="40" y="355" width="119" height="34" rx="17" fill="#272530"/>

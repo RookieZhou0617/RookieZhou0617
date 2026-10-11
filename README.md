@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/hello-wenjie.svg" alt="Wenjie Zhou — a little research, a little side quest. Shanghai, code, music and games." width="100%" />
+  <img src="assets/hello-jason.svg" alt="Jason (Wenjie Zhou) — a little research, a little side quest. Shanghai, code, music and games." width="100%" />
 </p>
 
 <p align="center">
   <b>English</b> · <a href="README_CN.md">中文</a> · <a href="mailto:zhouwenjie_0617@163.com">Say hello ↗</a>
 </p>
 
-## Hey, I'm Wenjie 👋
+## Hey, I'm Jason 👋
 
-**周文杰 · Shanghai · Applied Statistics @ Shanghai University of Finance and Economics**
+**Wenjie Zhou (周文杰) · Shanghai · Applied Statistics @ Shanghai University of Finance and Economics**
 
 I'm a master's student graduating in 2027. I spend time on graph learning and fraud detection, build things with AI, and get curious about a lot of things. I have ADHD; there's room here for all those interests. Also a Gemini, for anyone keeping track. ♊
 

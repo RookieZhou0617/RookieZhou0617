@@ -1,8 +1,7 @@
 # Profile assets
 
-- `hello-wenjie.svg`: original editable vector header for this profile.
+- `hello-jason.svg`: original editable vector header for this profile.
 - `mixtape.gif`: original decorative animation. It does not indicate live playback or listening activity.
-- `profile-header-v2.svg`: previous header, retained for reference.
 
 Company marks identify past internship employers. The tile images add a white background and preserve the original mark's proportions.
 

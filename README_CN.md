@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/hello-wenjie.svg" alt="周文杰 — 做点研究，也开点支线。上海、代码、音乐和游戏。" width="100%" />
+  <img src="assets/hello-jason.svg" alt="周文杰 — 做点研究，也开点支线。上海、代码、音乐和游戏。" width="100%" />
 </p>
 
 <p align="center">
   <a href="README.md">English</a> · <b>中文</b> · <a href="mailto:zhouwenjie_0617@163.com">打个招呼 ↗</a>
 </p>
 
-## 嗨，我是文杰 👋
+## 嗨，我是文杰，也可以叫我 Jason 👋
 
 **周文杰 · 目前在上海 · 上海财经大学应用统计硕士在读**
 
