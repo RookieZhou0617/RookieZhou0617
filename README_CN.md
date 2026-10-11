@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <b>中文</b> · <a href="https://jason-personal-site-green.vercel.app/">个人网站 ↗</a> · <a href="mailto:zhouwenjie_0617@163.com">打个招呼 ↗</a>
+  <a href="README.md">English</a> · <b>中文</b> · <a href="https://jasonwenjie.com/">个人网站 ↗</a> · <a href="mailto:zhouwenjie_0617@163.com">打个招呼 ↗</a>
 </p>
 
 ## 嗨，我是文杰，也可以叫我 Jason 👋
@@ -14,7 +14,7 @@
 
 *最近在做什么比较好回答，接下来会对什么感兴趣就不好说了。*
 
-🌐 [来我的个人网站逛逛](https://jason-personal-site-green.vercel.app/) — 更多项目、音乐和支线探索。
+🌐 [来我的个人网站逛逛](https://jasonwenjie.com/) — 更多项目、音乐和支线探索。
 
 ## 🛠️ 最近在折腾
 

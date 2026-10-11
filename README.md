@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>English</b> · <a href="README_CN.md">中文</a> · <a href="https://jason-personal-site-green.vercel.app/">Personal website ↗</a> · <a href="mailto:zhouwenjie_0617@163.com">Say hello ↗</a>
+  <b>English</b> · <a href="README_CN.md">中文</a> · <a href="https://jasonwenjie.com/">Personal website ↗</a> · <a href="mailto:zhouwenjie_0617@163.com">Say hello ↗</a>
 </p>
 
 ## Hey, I'm Jason 👋
@@ -14,7 +14,7 @@ I'm a master's student graduating in 2027. I spend time on graph learning and fr
 
 *What I'm working on is easy to answer. What I'll get curious about next? Less so.*
 
-🌐 [Visit my personal website](https://jason-personal-site-green.vercel.app/) — more projects, music, and side quests.
+🌐 [Visit my personal website](https://jasonwenjie.com/) — more projects, music, and side quests.
 
 ## 🛠️ Currently tinkering with
 
