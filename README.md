@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello-jason.svg" alt="Jason (Wenjie Zhou) — a little research, a little side quest. Shanghai, code, music and games." width="100%" />
+  <img src="assets/hello-jason-editorial-v1.jpg" alt="The Jason Edition — illustrated portrait of Jason (Wenjie Zhou) on cream paper with lavender brushstrokes and orange accents. Hello, I'm Jason. A little research. A little side quest. Shanghai, code, music and games." width="100%" />
 </p>
 
 <p align="center">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello-jason.svg" alt="周文杰 — 做点研究，也开点支线。上海、代码、音乐和游戏。" width="100%" />
+  <img src="assets/hello-jason-editorial-v1.jpg" alt="The Jason Edition 杂志风封面：周文杰的人像插画，搭配奶油纸色、淡紫笔刷和橙色点缀。你好，我是 Jason。做点研究，也开点支线。上海、代码、音乐和游戏。" width="100%" />
 </p>
 
 <p align="center">
